@@ -1,9 +1,17 @@
 # Backend Internship - Ayushi Negi
 
-Intern: Ayushi Negi
-Branch: BTech CSE
-Track: Backend (Node.js, Express, MongoDB)
-Mentor: Prakhar
-Start date: 01 June 2026
+## Internship Details
 
-This repo will hold all my backend internship work over the next 8 weeks.
+- Intern: Ayushi Negi  
+- Branch: BTech CSE  
+- Track: Backend (Node.js, Express, MongoDB)  
+- Mentor: Prakhar  
+- Start Date: 01 June 2026  
+
+---
+
+## About This Repository
+
+This repository contains all tasks, assignments, and learning work completed during my backend internship.
+
+I will be updating this repo regularly throughout the internship period.
