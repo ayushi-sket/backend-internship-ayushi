@@ -1,0 +1,24 @@
+{
+  "name": "backend-internship-ayushi",
+  "version": "1.0.0",
+  "description": "- Intern: Ayushi Negi  \r - Branch: BTech CSE  \r - Track: Backend (Node.js, Express, MongoDB)  \r - Mentor: Prakhar  \r - Start Date: 01 June 2026",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushi-sket/backend-internship-ayushi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ayushi-sket/backend-internship-ayushi/issues"
+  },
+  "homepage": "https://github.com/ayushi-sket/backend-internship-ayushi#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
